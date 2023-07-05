@@ -1,4 +1,4 @@
-Assignment 3
+Assignment 3 Explanation
 
 The edges text file is read and then put into a list where each index represents a vertex and has a list of all the edges in it. Because the list contains all the edges and is bidirectional, it will have 2E edges, the space complexity will be O(E). Going through every edge to make the list will have time complexity of O(E).
 
